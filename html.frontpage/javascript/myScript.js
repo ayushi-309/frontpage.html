@@ -51,11 +51,26 @@ var x = 5, y = 2;
 // var sum = 10 + 5;
 // console.log(sum);
 
-var x = "20";
-var y = "2a";
+// var x = "20";
+// var y = "2a";
 
-var sub = x - y;
+// var sub = x - y;
 // var mul = x * y;
 // var div = x / y;
 
-console.log(isNaN(sub));
+// console.log(isNaN(sub));
+
+// var x = 20;
+// x = x.toString();
+// console.log(x);
+
+// console.log(Number("126.78"));
+
+// Boolean Type
+
+// console.log(22>0);
+// console.log(18==18);
+// console.log(true && false);
+// console.log(true || false);
+
+console.log(true == "true");
